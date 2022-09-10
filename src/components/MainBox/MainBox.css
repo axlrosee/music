@@ -1,0 +1,21 @@
+.MainBoxContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 90%;
+  margin-top: 80px;
+}
+
+.MainBoxImage {
+  width: 80%;
+  height: 500px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.MainBoxText {
+  margin-top: 10px;
+  font-size: 20px;
+}
